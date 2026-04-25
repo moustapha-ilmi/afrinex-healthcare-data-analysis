@@ -1,4 +1,6 @@
 # 🏥 Afrinex AI – Healthcare Data Analysis & Insights
+> A data analysis project focused on improving healthcare operations using Python and data visualization.
+
 
 ## 📊 Overview
 This project analyzes healthcare data to uncover insights into patient flow, wait times, and clinic performance. The goal is to support data-driven decision-making in healthcare environments.
