@@ -1,0 +1,151 @@
+patient_id,visit_date,appointment_time,department,wait_time_minutes,consultation_time_minutes,doctor_name,status,payment_type
+1,2026-01-21,09:30,General Medicine,43,24,Dr. Fatouma,Completed,Cash
+2,2026-01-14,08:00,General Medicine,35,18,Dr. Fatouma,Completed,Insurance
+3,2026-01-14,10:30,Dermatology,34,8,Dr. Hana,Completed,Cash
+4,2026-01-07,16:30,General Medicine,21,22,Dr. Hassan,Completed,Mobile Payment
+5,2026-01-24,11:00,Orthopedics,6,13,Dr. Leila,Completed,Insurance
+6,2026-01-23,08:15,Dermatology,0,0,Dr. Ibrahim,No Show,Mobile Payment
+7,2026-01-13,10:30,General Medicine,19,8,Dr. Fatouma,Completed,Insurance
+8,2026-01-20,13:15,General Medicine,45,17,Dr. Fatouma,Completed,Cash
+9,2026-01-11,15:00,General Medicine,24,23,Dr. Ali,Completed,Mobile Payment
+10,2026-01-19,15:30,General Medicine,40,11,Dr. Ali,Completed,Cash
+11,2026-01-08,14:30,Cardiology,18,14,Dr. Ahmed,Completed,Insurance
+12,2026-01-03,14:00,General Medicine,21,9,Dr. Hassan,Completed,Cash
+13,2026-01-15,12:00,Cardiology,42,10,Dr. Samira,Completed,Cash
+14,2026-01-14,09:00,Orthopedics,0,0,Dr. Leila,Cancelled,Mobile Payment
+15,2026-01-25,09:00,Orthopedics,17,10,Dr. Moussa,Completed,Cash
+16,2026-01-06,12:00,Pediatrics,36,22,Dr. Amina,Completed,Cash
+17,2026-01-08,15:00,General Medicine,46,22,Dr. Ali,Completed,Cash
+18,2026-01-16,16:15,General Medicine,0,0,Dr. Hassan,Cancelled,Mobile Payment
+19,2026-01-30,12:15,Cardiology,22,12,Dr. Samira,Completed,Cash
+20,2026-01-08,08:00,Pediatrics,28,20,Dr. Omar,Completed,Cash
+21,2026-01-29,08:30,General Medicine,23,13,Dr. Ali,Completed,Insurance
+22,2026-01-29,12:45,General Medicine,23,19,Dr. Fatouma,Completed,Cash
+23,2026-01-14,11:00,Cardiology,0,0,Dr. Ahmed,No Show,Cash
+24,2026-01-24,10:00,General Medicine,16,20,Dr. Hassan,Completed,Insurance
+25,2026-01-28,15:45,Dermatology,0,0,Dr. Ibrahim,Cancelled,Cash
+26,2026-01-18,15:00,Orthopedics,0,0,Dr. Moussa,Cancelled,Cash
+27,2026-01-16,10:45,Orthopedics,39,18,Dr. Leila,Completed,Cash
+28,2026-01-23,16:45,General Medicine,43,16,Dr. Fatouma,Completed,Cash
+29,2026-01-11,08:45,Pediatrics,0,0,Dr. Omar,Cancelled,Cash
+30,2026-01-17,08:15,General Medicine,35,12,Dr. Fatouma,Completed,Cash
+31,2026-01-20,08:00,Pediatrics,5,15,Dr. Omar,Completed,Insurance
+32,2026-01-11,10:45,General Medicine,5,22,Dr. Ali,Completed,Cash
+33,2026-01-20,16:00,General Medicine,25,34,Dr. Ali,Completed,Mobile Payment
+34,2026-01-12,10:45,Dermatology,5,8,Dr. Ibrahim,Completed,Insurance
+35,2026-01-18,10:00,Orthopedics,32,20,Dr. Moussa,Completed,Cash
+36,2026-01-20,10:30,General Medicine,26,26,Dr. Ali,Completed,Cash
+37,2026-01-14,15:00,General Medicine,21,13,Dr. Fatouma,Completed,Cash
+38,2026-01-23,11:00,General Medicine,0,0,Dr. Fatouma,No Show,Mobile Payment
+39,2026-01-18,08:30,Pediatrics,35,22,Dr. Omar,Completed,Mobile Payment
+40,2026-01-07,13:00,Pediatrics,50,8,Dr. Omar,Completed,Mobile Payment
+41,2026-01-08,15:15,Orthopedics,27,11,Dr. Leila,Completed,Mobile Payment
+42,2026-01-28,14:15,General Medicine,0,0,Dr. Ali,Cancelled,Cash
+43,2026-01-02,15:15,General Medicine,0,0,Dr. Hassan,No Show,Cash
+44,2026-01-26,15:15,General Medicine,16,30,Dr. Hassan,Completed,Cash
+45,2026-01-17,11:30,Orthopedics,35,17,Dr. Leila,Completed,Cash
+46,2026-01-20,11:30,Pediatrics,0,0,Dr. Omar,No Show,Cash
+47,2026-01-19,09:00,Cardiology,41,14,Dr. Ahmed,Completed,Cash
+48,2026-01-03,16:30,Cardiology,46,28,Dr. Samira,Completed,Insurance
+49,2026-01-11,11:30,Pediatrics,22,12,Dr. Omar,Completed,Insurance
+50,2026-01-10,11:00,General Medicine,31,8,Dr. Hassan,Completed,Insurance
+51,2026-01-15,13:45,Dermatology,0,0,Dr. Ibrahim,No Show,Insurance
+52,2026-01-10,12:30,General Medicine,0,0,Dr. Ali,No Show,Insurance
+53,2026-01-08,14:15,General Medicine,5,20,Dr. Ali,Completed,Insurance
+54,2026-01-29,13:15,Cardiology,22,20,Dr. Ahmed,Completed,Mobile Payment
+55,2026-01-28,14:00,Dermatology,34,8,Dr. Hana,Completed,Cash
+56,2026-01-08,15:00,Pediatrics,0,0,Dr. Amina,Cancelled,Mobile Payment
+57,2026-01-29,11:45,Dermatology,43,11,Dr. Hana,Completed,Insurance
+58,2026-01-25,10:30,Dermatology,21,13,Dr. Ibrahim,Completed,Insurance
+59,2026-01-08,10:30,Orthopedics,34,23,Dr. Moussa,Completed,Insurance
+60,2026-01-03,11:30,Pediatrics,31,25,Dr. Omar,Completed,Mobile Payment
+61,2026-01-25,12:45,General Medicine,28,8,Dr. Hassan,Completed,Insurance
+62,2026-01-24,12:15,Pediatrics,16,18,Dr. Amina,Completed,Insurance
+63,2026-01-27,11:15,Orthopedics,41,12,Dr. Moussa,Completed,Cash
+64,2026-01-14,09:45,General Medicine,21,24,Dr. Hassan,Completed,Insurance
+65,2026-01-13,10:45,General Medicine,42,19,Dr. Hassan,Completed,Cash
+66,2026-01-03,14:00,Dermatology,0,0,Dr. Ibrahim,No Show,Mobile Payment
+67,2026-01-20,09:15,Pediatrics,40,15,Dr. Amina,Completed,Insurance
+68,2026-01-06,13:00,Dermatology,22,26,Dr. Hana,Completed,Insurance
+69,2026-01-30,16:45,Orthopedics,9,10,Dr. Moussa,Completed,Cash
+70,2026-01-25,10:00,Dermatology,42,20,Dr. Hana,Completed,Cash
+71,2026-01-21,10:45,Dermatology,44,15,Dr. Hana,Completed,Insurance
+72,2026-01-14,09:30,Cardiology,0,0,Dr. Samira,No Show,Insurance
+73,2026-01-27,14:30,General Medicine,36,15,Dr. Hassan,Completed,Cash
+74,2026-01-15,12:45,General Medicine,21,25,Dr. Hassan,Completed,Insurance
+75,2026-01-11,10:30,Pediatrics,31,22,Dr. Amina,Completed,Insurance
+76,2026-01-25,10:45,Cardiology,29,15,Dr. Ahmed,Completed,Cash
+77,2026-01-08,10:30,Pediatrics,10,23,Dr. Amina,Completed,Cash
+78,2026-01-15,10:30,General Medicine,20,28,Dr. Fatouma,Completed,Cash
+79,2026-01-07,14:30,Cardiology,0,0,Dr. Samira,No Show,Mobile Payment
+80,2026-01-27,09:15,Pediatrics,26,14,Dr. Omar,Completed,Mobile Payment
+81,2026-01-18,10:15,Cardiology,29,18,Dr. Samira,Completed,Insurance
+82,2026-01-15,10:00,General Medicine,0,0,Dr. Ali,Cancelled,Mobile Payment
+83,2026-01-13,11:00,General Medicine,0,0,Dr. Hassan,Cancelled,Cash
+84,2026-01-08,09:45,Cardiology,0,0,Dr. Ahmed,Cancelled,Insurance
+85,2026-01-13,11:45,General Medicine,13,21,Dr. Ali,Completed,Insurance
+86,2026-01-24,09:15,Cardiology,35,20,Dr. Ahmed,Completed,Cash
+87,2026-01-14,11:45,General Medicine,23,8,Dr. Hassan,Completed,Cash
+88,2026-01-08,15:15,Pediatrics,12,8,Dr. Omar,Completed,Cash
+89,2026-01-06,14:30,Pediatrics,23,24,Dr. Amina,Completed,Insurance
+90,2026-01-16,11:00,Orthopedics,25,17,Dr. Moussa,Completed,Mobile Payment
+91,2026-01-27,15:00,Orthopedics,27,19,Dr. Moussa,Completed,Insurance
+92,2026-01-21,11:30,General Medicine,18,11,Dr. Ali,Completed,Insurance
+93,2026-01-14,10:00,Orthopedics,24,12,Dr. Leila,Completed,Mobile Payment
+94,2026-01-18,08:00,General Medicine,39,16,Dr. Fatouma,Completed,Mobile Payment
+95,2026-01-01,13:45,Pediatrics,14,26,Dr. Amina,Completed,Insurance
+96,2026-01-07,10:15,Orthopedics,26,14,Dr. Moussa,Completed,Insurance
+97,2026-01-10,12:45,General Medicine,0,0,Dr. Ali,No Show,Insurance
+98,2026-01-04,13:15,Pediatrics,18,17,Dr. Amina,Completed,Mobile Payment
+99,2026-01-08,11:15,Pediatrics,0,0,Dr. Omar,No Show,Mobile Payment
+100,2026-01-09,14:45,General Medicine,0,0,Dr. Hassan,Cancelled,Mobile Payment
+101,2026-01-10,14:45,Orthopedics,17,18,Dr. Leila,Completed,Insurance
+102,2026-01-11,15:15,Pediatrics,28,15,Dr. Amina,Completed,Insurance
+103,2026-01-26,11:15,Pediatrics,11,17,Dr. Omar,Completed,Mobile Payment
+104,2026-01-15,09:45,General Medicine,49,8,Dr. Ali,Completed,Insurance
+105,2026-01-09,10:45,Cardiology,0,0,Dr. Samira,Cancelled,Mobile Payment
+106,2026-01-21,14:45,Orthopedics,43,22,Dr. Leila,Completed,Mobile Payment
+107,2026-01-24,09:00,Dermatology,33,20,Dr. Hana,Completed,Mobile Payment
+108,2026-01-02,10:00,General Medicine,37,24,Dr. Fatouma,Completed,Insurance
+109,2026-01-06,09:00,Cardiology,22,10,Dr. Ahmed,Completed,Cash
+110,2026-01-21,10:30,Cardiology,0,0,Dr. Samira,Cancelled,Mobile Payment
+111,2026-01-22,12:00,Pediatrics,13,12,Dr. Amina,Completed,Insurance
+112,2026-01-15,15:15,Orthopedics,0,0,Dr. Moussa,Cancelled,Cash
+113,2026-01-19,10:30,Orthopedics,45,16,Dr. Leila,Completed,Cash
+114,2026-01-28,13:00,Orthopedics,40,8,Dr. Moussa,Completed,Insurance
+115,2026-01-12,10:15,Cardiology,24,8,Dr. Ahmed,Completed,Insurance
+116,2026-01-29,13:00,General Medicine,10,12,Dr. Ali,Completed,Mobile Payment
+117,2026-01-11,14:15,General Medicine,0,0,Dr. Hassan,Cancelled,Insurance
+118,2026-01-30,10:15,General Medicine,0,0,Dr. Hassan,Cancelled,Mobile Payment
+119,2026-01-10,14:30,Dermatology,45,23,Dr. Ibrahim,Completed,Mobile Payment
+120,2026-01-24,13:45,Orthopedics,0,0,Dr. Leila,Cancelled,Cash
+121,2026-01-13,08:00,Pediatrics,20,9,Dr. Amina,Completed,Cash
+122,2026-01-08,11:30,Orthopedics,48,23,Dr. Leila,Completed,Insurance
+123,2026-01-04,09:00,General Medicine,48,26,Dr. Ali,Completed,Cash
+124,2026-01-12,13:45,Pediatrics,41,11,Dr. Amina,Completed,Insurance
+125,2026-01-09,08:30,General Medicine,28,24,Dr. Fatouma,Completed,Cash
+126,2026-01-29,16:30,General Medicine,56,14,Dr. Hassan,Completed,Cash
+127,2026-01-07,13:00,General Medicine,49,17,Dr. Ali,Completed,Cash
+128,2026-01-25,12:15,Dermatology,31,8,Dr. Ibrahim,Completed,Cash
+129,2026-01-05,16:30,Dermatology,32,15,Dr. Hana,Completed,Insurance
+130,2026-01-08,13:00,General Medicine,27,9,Dr. Fatouma,Completed,Cash
+131,2026-01-15,14:00,Pediatrics,13,10,Dr. Amina,Completed,Insurance
+132,2026-01-01,08:45,Dermatology,42,24,Dr. Hana,Completed,Cash
+133,2026-01-03,10:15,General Medicine,17,11,Dr. Hassan,Completed,Cash
+134,2026-01-20,12:45,Pediatrics,29,14,Dr. Omar,Completed,Cash
+135,2026-01-29,10:30,Dermatology,26,11,Dr. Hana,Completed,Insurance
+136,2026-01-12,16:45,General Medicine,0,0,Dr. Ali,Cancelled,Cash
+137,2026-01-24,14:15,Pediatrics,18,15,Dr. Omar,Completed,Cash
+138,2026-01-28,13:45,Orthopedics,43,16,Dr. Leila,Completed,Cash
+139,2026-01-17,10:45,General Medicine,34,12,Dr. Hassan,Completed,Insurance
+140,2026-01-26,11:00,Cardiology,26,16,Dr. Samira,Completed,Insurance
+141,2026-01-10,15:30,General Medicine,0,0,Dr. Fatouma,Cancelled,Insurance
+142,2026-01-03,09:00,General Medicine,18,23,Dr. Ali,Completed,Cash
+143,2026-01-24,10:00,Orthopedics,28,15,Dr. Moussa,Completed,Cash
+144,2026-01-22,11:45,Pediatrics,16,17,Dr. Omar,Completed,Cash
+145,2026-01-22,13:30,General Medicine,26,17,Dr. Hassan,Completed,Mobile Payment
+146,2026-01-25,09:30,General Medicine,15,18,Dr. Ali,Completed,Cash
+147,2026-01-23,10:30,General Medicine,0,0,Dr. Ali,Cancelled,Cash
+148,2026-01-15,15:30,Pediatrics,24,10,Dr. Omar,Completed,Cash
+149,2026-01-11,09:45,Dermatology,0,0,Dr. Ibrahim,No Show,Cash
+150,2026-01-04,10:45,Pediatrics,23,23,Dr. Amina,Completed,Insurance
